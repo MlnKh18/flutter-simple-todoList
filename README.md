@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# flutter_todolist_app
+# Flutter_todolist_app
 
 A new Flutter project.
 
